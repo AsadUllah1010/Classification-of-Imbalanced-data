@@ -27,5 +27,6 @@ The given dataset contains the following features:
 15. rear_brakes_type: Type of rear brakes, which could be related to the vehicle’s stopping capability and safety.
 16. Features like steering_type, turning_radius, length, width, gross_weight, and various other binary indicators (Yes/No) for specific vehicle amenities and safety features, which together build a profile of the vehicle’s characteristics and its associated risk factors.
 17. claim_status: Indicates whether a claim was made (1) or not (0), which is the dependent variable the model aims to predict.
+<br>
 Your task is to develop and evaluate a predictive model that accurately identifies the likelihood of insurance claims, despite the inherent class imbalance in the dataset. The model should maintain high predictive accuracy across both classes, ensuring that insurers can effectively assess risk and allocate resources.
 
